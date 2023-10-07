@@ -1,0 +1,17 @@
+    1  git init
+    2  ls
+    3  ls -la
+    4  git config --global user.name "stephen"
+    5  git config --global user.email "st3phenoo@gmail.com"
+    6  git add .
+    7  cide .
+    8  ls -la
+    9  git init
+   10  ls -la
+   11  cd myIT
+   12  cd Desktop/
+   13  cd myIT/
+   14  cdv Task003/
+   15  cd task003/
+   16  cd file_ops/
+   17  history > command_log_file_ops

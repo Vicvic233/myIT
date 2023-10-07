@@ -1,0 +1,24 @@
+    1  git init
+    2  ls
+    3  ls -la
+    4  git config --global user.name "stephen"
+    5  git config --global user.email "st3phenoo@gmail.com"
+    6  git add .
+    7  cide .
+    8  ls -la
+    9  git init
+   10  ls -la
+   11  cd myIT
+   12  ls
+   13  cd Desktop/
+   14  ls
+   15  cd myIT/
+   16  ls
+   17  cd task003/
+   18  mkdir another
+   19  cd another/
+   20  mkdir my_folder
+   21  cd my_folder/
+   22  touch notes.txt
+   23  ls
+   24  history > command_log.txt

@@ -1,0 +1,24 @@
+    1  git init
+    2  ls
+    3  ls -la
+    4  git config --global user.name "stephen"
+    5  git config --global user.email "st3phenoo@gmail.com"
+    6  git add .
+    7  cide .
+    8  ls -la
+    9  git init
+   10  ls -la
+   11  cd myIT
+   12  ls
+   13  cd Desktop/
+   14  cd myIT/
+   15  cd task003/
+   16  mv file_ops/redirection_practice/file4.txt file_ops/redirection_practice/subfolder
+   17  ls
+   18  rm -r file_ops/subfolder/
+   19  rm -r file_ops/subfoldder
+   20  cd file_ops
+   21  rm -r file_ops/subfolder/
+   22  cd redirection_practice/
+   23  rm -r subfolder
+   24  history > command_log_file_ops
